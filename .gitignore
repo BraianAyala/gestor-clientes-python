@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache / compilados
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
